@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: pycupas
+Version: 1.0.6
+Summary: Make your own coupang partners bot easily
+Home-page: https://github.com/winterlood
+Author: winterlood
+Author-email: winterlood@22hours.co.kr
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+
 # cupas
 
 **cupas**는 쿠팡 파트너스 Open API의 Python Wrapper입니다.
@@ -41,3 +53,5 @@ cupas.get_cuplink(linkList,subId)
 # linkList 는 필수
 # subId는 optional
 ```
+
+
